@@ -1,0 +1,44 @@
+STYLES.CSS
+
+/* Place your CSS styles in this file */
+body{background-color: beige;
+     border: 5px solid brown;
+     border-radius: 20px
+
+}
+
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.5cm;
+    text-align: center;
+display: inline;
+background-color: wheat;
+}
+a{
+    text-decoration: none;
+color: cornflowerblue;}
+a:hover{
+    color: bisque;
+    cursor: pointer;
+    text-decoration: none;
+    opacity: 100%;
+}
+marquee{background-color: tan;}
+
+
+h1 {
+    text-align: center;
+    font-family: "verdana";
+    font-weight: normal;
+    color: crimson;
+}
+ul{list-style-type: none;
+background-color:burlywood;
+margin-left:3vh;
+margin-right:3vh;
+border: solid;
+border-radius:5vh;
+font-family:helvetica;
+color: brown;
+
